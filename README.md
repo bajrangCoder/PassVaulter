@@ -1,12 +1,12 @@
 # PassVaulter
 
-A terminal based simple password manager.
+A terminal based simple password manager..
 
 ![App Screenshot](https://github.com/nkray-raunak123/PassVaulter/blob/main/screenshots/20220112_112353.jpg)
 
 
 > Current version of this project 
-: v1.1
+: v1.2
 
 
 ## What is PassVaulter
@@ -49,3 +49,5 @@ You can help the project by correcting bugs and adding improvements to the proje
 Don't forget to share and leave your 🌟
 
 Any errors or suggestions report it to: https://github.com/nkray-raunak123/PassVaulter/issues
+
+
